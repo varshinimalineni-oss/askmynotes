@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Basic HTML document</title>
+</head>
+<body>
+<h1>Welcome to the world of Web
+    Technologies</h1>
+<p>A sample html progrsm</p>
+</body>
+</html>
